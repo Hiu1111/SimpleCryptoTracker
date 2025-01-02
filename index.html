@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crypto Prices</title>
+</head>
+<body>
+    <h1>Cryptocurrency Prices</h1>
+    <table border="1">
+        <tr>
+            <th>Cryptocurrency</th>
+            <th>Price (USD)</th>
+        </tr>
+        {% for crypto, data in prices.items() %}
+        <tr>
+            <td>{{ crypto }}</td>
+            <td>{{ data.usd }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
+
