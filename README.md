@@ -13,5 +13,5 @@
   - Flask, used for creating the web application 
   - Requests, used for fetching cryptocurrency data from the CoinGecko API
 
-## I plan to add more features and functionality to this project in the future, as I am still learning more about web development, API integration, database management, and creating user-friendly interfaces. As I expand my skills, I aim to enhance this project with a portfolio tracker, notification systems and etc.
+## I plan to add more features and functionality to this project in the future, as I am still learning more about web development, API integration, database management, and etc. As I expand my skills, I aim to enhance this project with a portfolio tracker, notification systems and etc.
 
